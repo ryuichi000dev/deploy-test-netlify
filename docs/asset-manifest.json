@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/deploy-test-netlify/static/css/main.073c9b0a.css",
+    "main.js": "/deploy-test-netlify/static/js/main.77b23290.js",
+    "static/js/787.3ac5feed.chunk.js": "/deploy-test-netlify/static/js/787.3ac5feed.chunk.js",
+    "index.html": "/deploy-test-netlify/index.html",
+    "main.073c9b0a.css.map": "/deploy-test-netlify/static/css/main.073c9b0a.css.map",
+    "main.77b23290.js.map": "/deploy-test-netlify/static/js/main.77b23290.js.map",
+    "787.3ac5feed.chunk.js.map": "/deploy-test-netlify/static/js/787.3ac5feed.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.77b23290.js"
+  ]
+}
